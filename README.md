@@ -13,7 +13,7 @@
 
   Using Context API user management project was created.
 
-## State management usinx Redux
+## State management using Redux
 
     git clone https://github.com/a8hok/React-5-in-1-2024.git
 
