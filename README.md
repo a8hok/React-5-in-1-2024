@@ -21,4 +21,14 @@
     npm install or npm i
 
     npm run dev
+
+## State management using Redux toolkit
+
+    git clone https://github.com/a8hok/React-5-in-1-2024.git
+
+    cd redux-toolkit-management
+
+    npm install or npm i
+
+    npm run dev
     
