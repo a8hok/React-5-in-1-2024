@@ -31,4 +31,14 @@
     npm install or npm i
 
     npm run dev
+
+## Async management using RTK Query and createAsyncThunk 
+
+    git clone https://github.com/a8hok/React-5-in-1-2024.git
+
+    cd redux-toolkit-management
+
+    npm install or npm i
+
+    npm run dev
     
